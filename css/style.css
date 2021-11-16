@@ -9,10 +9,6 @@
    	-moz-transition:all .5s ease-in-out; 
    	-webkit-transition:all .5s ease-in-out;
   transform: translate(-50%,-50%);
-  -webkit-transition: all 3s ease;
-  -moz-transition: all 3s ease;
-  -ms-transition: all 3s ease;
-  transition: all 3s ease;
 
   /*depth of the elements */
   -webkit-perspective: 800px;
