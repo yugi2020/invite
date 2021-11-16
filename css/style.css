@@ -78,7 +78,8 @@
 
 /*Colors for front and back applied here*/
 .cardContainer .card .front, .cardContainer-portrait .front, .cardContainer .card .back, .cardContainer-portrait .back {
-  background: #29485a;
+  background: #28282b;
+ /* background: #1c4050;*/
 }
 
 .content {
